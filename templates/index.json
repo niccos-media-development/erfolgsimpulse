@@ -1,1 +1,269 @@
-{"sections":{"countdown-timer":{"type":"countdown-timer","blocks":{"text":{"type":"text","settings":{"text":"<p>Wir gehen Online in ...<\/p>","text_size":"subtext-custom","text_max_size":32,"text_font":"body","secondary_color":false,"highlighted_text":"none","highlighted_scribble":"circle"}},"spacing":{"type":"spacing","settings":{"height":24,"height_mobile":16}},"timer":{"type":"timer","settings":{"year":"2024","month":"12","day":"3","hour":"10","minute":"00","text_font":"heading","text_size":"title-lg tracking-heading","message":""}},"button":{"type":"button","disabled":true,"settings":{"button_label":"Discover sales","button_link":"","button_style":"primary","button_size":"md","button_external":false,"button_icon":true}}},"block_order":["text","spacing","timer","button"],"settings":{"transparent_header":true,"image":"shopify:\/\/shop_images\/Hintergrund.png","image_height":"750px","content_width":"medium","content_position":"md:items-center md:justify-center","text_alignment":"center","image_height_mobile":"500px","content_position_mobile":"items-center justify-center","text_alignment_mobile":"center","color_text":"#ffffff","color_highlight":"#fcd34d","gradient_highlight":"","color_button_text":"#171717","color_button_background":"#ffffff","color_button_gradient":"","color_overlay":"#000000","overlay_opacity":30,"padding_top":0,"padding_bottom":0,"divider":false,"full_width":true,"rounded":true,"enable_parallax":true,"parallax_direction":"vertical"}},"multicolumn_4N4CmN":{"type":"multicolumn","blocks":{"column_WcCNMR":{"type":"column","settings":{"show_border":false,"text_alignment":"left","text_alignment_mobile":"left","image_ratio":"adapt","heading":"Example title","heading_size":"text-lg-2xl","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>","button_label":"","button_link":"","button_style":"secondary","button_external":false,"button_icon":true,"highlighted_text":"none","highlighted_scribble":"circle"}},"column_YbzdAz":{"type":"column","settings":{"show_border":false,"text_alignment":"left","text_alignment_mobile":"left","image_ratio":"adapt","heading":"Example title","heading_size":"text-lg-2xl","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>","button_label":"","button_link":"","button_style":"secondary","button_external":false,"button_icon":true,"highlighted_text":"none","highlighted_scribble":"circle"}},"column_6JKPrU":{"type":"column","settings":{"show_border":false,"text_alignment":"left","text_alignment_mobile":"left","image_ratio":"adapt","heading":"Example title","heading_size":"text-lg-2xl","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>","button_label":"","button_link":"","button_style":"secondary","button_external":false,"button_icon":true,"highlighted_text":"none","highlighted_scribble":"circle"}},"column_y9D9cz":{"type":"column","settings":{"show_border":false,"text_alignment":"left","text_alignment_mobile":"left","image_ratio":"adapt","heading":"Example title","heading_size":"text-lg-2xl","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>","button_label":"","button_link":"","button_style":"secondary","button_external":false,"button_icon":true,"highlighted_text":"none","highlighted_scribble":"circle"}},"column_LaehmD":{"type":"column","settings":{"show_border":false,"text_alignment":"left","text_alignment_mobile":"left","image_ratio":"adapt","heading":"Example title","heading_size":"text-lg-2xl","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>","button_label":"","button_link":"","button_style":"secondary","button_external":false,"button_icon":true,"highlighted_text":"none","highlighted_scribble":"circle"}},"column_3JQAb3":{"type":"column","settings":{"show_border":false,"text_alignment":"left","text_alignment_mobile":"left","image_ratio":"adapt","heading":"Example title","heading_size":"text-lg-2xl","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>","button_label":"","button_link":"","button_style":"secondary","button_external":false,"button_icon":true,"highlighted_text":"none","highlighted_scribble":"circle"}}},"block_order":["column_WcCNMR","column_YbzdAz","column_6JKPrU","column_y9D9cz","column_LaehmD","column_3JQAb3"],"settings":{"gap":"large","columns":3,"columns_mobile":"1","swipe_on_mobile":true,"heading":"Multicolumn","heading_size":"title-md","heading_alignment":"text-center md:items-center","heading_tag":"h2","subheading":"","description":"","button_label":"","button_link":"","button_external":false,"button_icon":true,"highlighted_text":"none","highlighted_scribble":"circle","color_text":"","color_background":"","gradient_background":"","color_highlight":"","gradient_highlight":"","color_button_text":"","color_button_background":"","color_button_gradient":"","padding_top":72,"padding_bottom":72,"divider":false,"full_width":false,"rounded":false}},"collection-list":{"type":"collection-list","blocks":{"collection-1":{"type":"collection","disabled":true,"settings":{"collection":"","title":"Alle Produkte","description":"Schaue dir alle unsere Produkte an.","overlay_content":true,"color_text":"#ffffff","color_overlay":"#000000","overlay_opacity":30}},"collection_nWWr8Q":{"type":"collection","settings":{"collection":"basic-produkte","image":"shopify:\/\/shop_images\/1.png","title":"","description":"Unsere Basic-Produkte biete dir hilfreiche schriftliche 1:1-Leitfäden und Vorlagen für die schnelle, einfache und erfolgreiche Umsetzung.","overlay_content":false,"color_text":"#ffffff","color_overlay":"#000000","overlay_opacity":30}},"collection-3":{"type":"collection","settings":{"collection":"premium-produkte","image":"shopify:\/\/shop_images\/3.png","title":"Premium-Produkte","description":"Unsere Premium-Produkte enthalten alle Inhalte der Basic-Produkte, ergänzt durchpraxisnahe Video-Anleitungen, die häufige Anwendungsfehler, Risiken und wertvolle Erfahrungswerte beleuchten – so profitierst du bereits vor deiner eigenen Umsetzung optimal von bewährtem Wissen.","overlay_content":false,"color_text":"#ffffff","color_overlay":"#000000","overlay_opacity":40}},"collection-4":{"type":"collection","settings":{"collection":"excellence-produkte","image":"shopify:\/\/shop_images\/4.png","title":"Excellence-Produkte","description":"Unsere Excellence-Produkte vereinen alle Inhalte der Basic- und Premium-Produkte in umfassende, praxiserprobte Kurse, die mit gezielten Lernzielkontrollen und kontinuierlicher Begleitung maximale Umsetzungserfolge sicherstellen.","overlay_content":false,"color_text":"#ffffff","color_overlay":"#000000","overlay_opacity":40}}},"block_order":["collection-1","collection_nWWr8Q","collection-3","collection-4"],"settings":{"columns":3,"carousel_on_desktop":true,"image_type":"collection","image_ratio":"square","show_products_count":false,"show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"heading":"","heading_size":"title-md","heading_alignment":"text-left md:items-end md:flex-row","heading_tag":"h2","subheading":"","description":"","highlighted_text":"none","highlighted_scribble":"circle","color_text":"","color_background":"","gradient_background":"","color_highlight":"","gradient_highlight":"","color_button_text":"","color_button_background":"","color_button_gradient":"","padding_top":100,"padding_bottom":100,"divider":false,"full_width":false,"rounded":false}}},"order":["countdown-timer","multicolumn_4N4CmN","collection-list"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "multicolumn_4N4CmN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_WcCNMR": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image_ratio": "adapt",
+            "heading": "Example title",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_YbzdAz": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image_ratio": "adapt",
+            "heading": "Example title",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_6JKPrU": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image_ratio": "adapt",
+            "heading": "Example title",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_y9D9cz": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image_ratio": "adapt",
+            "heading": "Example title",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_LaehmD": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image_ratio": "adapt",
+            "heading": "Example title",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_3JQAb3": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image_ratio": "adapt",
+            "heading": "Example title",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "column_WcCNMR",
+        "column_YbzdAz",
+        "column_6JKPrU",
+        "column_y9D9cz",
+        "column_LaehmD",
+        "column_3JQAb3"
+      ],
+      "settings": {
+        "gap": "large",
+        "columns": 3,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Multicolumn",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "Alle Produkte",
+            "description": "Schaue dir alle unsere Produkte an.",
+            "overlay_content": true,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_nWWr8Q": {
+          "type": "collection",
+          "settings": {
+            "collection": "basic-produkte",
+            "image": "shopify://shop_images/1.png",
+            "title": "",
+            "description": "Unsere Basic-Produkte biete dir hilfreiche schriftliche 1:1-Leitfäden und Vorlagen für die schnelle, einfache und erfolgreiche Umsetzung.",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "premium-produkte",
+            "image": "shopify://shop_images/3.png",
+            "title": "Premium-Produkte",
+            "description": "Unsere Premium-Produkte enthalten alle Inhalte der Basic-Produkte, ergänzt durchpraxisnahe Video-Anleitungen, die häufige Anwendungsfehler, Risiken und wertvolle Erfahrungswerte beleuchten – so profitierst du bereits vor deiner eigenen Umsetzung optimal von bewährtem Wissen.",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "excellence-produkte",
+            "image": "shopify://shop_images/4.png",
+            "title": "Excellence-Produkte",
+            "description": "Unsere Excellence-Produkte vereinen alle Inhalte der Basic- und Premium-Produkte in umfassende, praxiserprobte Kurse, die mit gezielten Lernzielkontrollen und kontinuierlicher Begleitung maximale Umsetzungserfolge sicherstellen.",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection_nWWr8Q",
+        "collection-3",
+        "collection-4"
+      ],
+      "settings": {
+        "columns": 3,
+        "carousel_on_desktop": true,
+        "image_type": "collection",
+        "image_ratio": "square",
+        "show_products_count": false,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "multicolumn_4N4CmN",
+    "collection-list"
+  ]
+}
