@@ -1,1 +1,60 @@
-{"parent":"index.json","context":{"market":"de"},"sections":{"collection-list":{"settings":{"show_products_count":false,"show_view_all":true},"blocks":{"collection-1":{"settings":{"title":"Alle Produkte","description":"Schaue dir alle unsere Produkte an."}},"collection_cYwyb":{"type":"collection","disabled":true,"settings":{"collection":"","image":null,"title":"","description":"","overlay_content":false,"header-0472b3b050f50d7b619c905bb72a90e6":null,"color_text":"#ffffff","color_overlay":"#000000","overlay_opacity":30}},"collection-3":{"settings":{"collection":"excellence-produkte","title":"Premium-Produkte","description":"Premium-Produkte enthalten zusätzlich praxisbewährte 1:1-Video-Anleitungen für eine vertiefte Anwendung."}}},"block_order":["collection-1","collection_nWWr8Q","collection-3","collection_cYwyb","collection-4"]},"countdown-timer":{"settings":{},"blocks":{"button":{"settings":{"button_label":"Wirksame Produkte","button_link":"shopify:\/\/collections\/all"}}}}}}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "parent": "index.json",
+  "context": {
+    "market": "de"
+  },
+  "sections": {
+    "collection-list": {
+      "settings": {
+        "show_products_count": false,
+        "show_view_all": true
+      },
+      "blocks": {
+        "collection-1": {
+          "settings": {
+            "title": "Alle Produkte",
+            "description": "Schaue dir alle unsere Produkte an."
+          }
+        },
+        "collection_cYwyb": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "image": null,
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "header-0472b3b050f50d7b619c905bb72a90e6": null,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-3": {
+          "settings": {
+            "collection": "excellence-produkte",
+            "title": "Premium-Produkte",
+            "description": "Premium-Produkte enthalten zusätzlich praxisbewährte 1:1-Video-Anleitungen für eine vertiefte Anwendung."
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection_nWWr8Q",
+        "collection-3",
+        "collection_cYwyb",
+        "collection-4"
+      ]
+    }
+  }
+}
