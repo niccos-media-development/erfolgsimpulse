@@ -52,9 +52,96 @@
         "enable_parallax": true,
         "parallax_direction": "vertical"
       }
+    },
+    "rich_text_6jXjhj": {
+      "type": "rich-text",
+      "blocks": {
+        "text_EMNYmN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere Vision & Mission lautet:</p>",
+            "text_size": "subtext-sm",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "heading_64mL94": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>\"Millionen glückliche Momente\" </em>durch Führung, Management & Kommunikation.Für mehr Wohlbefinden, Wertschätzung & Excellence in der Welt.",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_7C36zA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_zjwM8w": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "text_EMNYmN",
+        "heading_64mL94",
+        "text_7C36zA",
+        "button_zjwM8w"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
     }
   },
   "order": [
-    "image_with_text_overlay_xTUX4X"
+    "image_with_text_overlay_xTUX4X",
+    "rich_text_6jXjhj"
   ]
 }
