@@ -9,6 +9,48 @@
  */
 {
   "sections": {
+    "images_with_text_overlay_FPfzUC": {
+      "type": "images-with-text-overlay",
+      "blocks": {
+        "heading_WGWfEh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Erfolgsimpulsefür dein Business",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WGWfEh"
+      ],
+      "settings": {
+        "transparent_header": false,
+        "image_height": "400px",
+        "content_width": "small",
+        "content_position": "md:items-center md:justify-start",
+        "text_alignment": "left",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 100,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true
+      }
+    },
     "multicolumn_4N4CmN": {
       "type": "multicolumn",
       "blocks": {
@@ -263,6 +305,7 @@
     }
   },
   "order": [
+    "images_with_text_overlay_FPfzUC",
     "multicolumn_4N4CmN",
     "collection-list"
   ]
