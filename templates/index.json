@@ -9,10 +9,10 @@
  */
 {
   "sections": {
-    "images_with_text_overlay_FPfzUC": {
-      "type": "images-with-text-overlay",
+    "image_with_text_overlay_xTUX4X": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "heading_WGWfEh": {
+        "heading_i6kntw": {
           "type": "heading",
           "settings": {
             "heading": "Erfolgsimpulsefür dein Business",
@@ -24,10 +24,11 @@
         }
       },
       "block_order": [
-        "heading_WGWfEh"
+        "heading_i6kntw"
       ],
       "settings": {
         "transparent_header": false,
+        "image": "shopify://shop_images/1-Mar-16-2024-05-49-34-4694-PM.webp",
         "image_height": "400px",
         "content_width": "small",
         "content_position": "md:items-center md:justify-start",
@@ -42,7 +43,36 @@
         "color_button_background": "#ffffff",
         "color_button_gradient": "",
         "color_overlay": "#171717",
-        "overlay_opacity": 100,
+        "overlay_opacity": 70,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
+    "images_with_text_overlay_FPfzUC": {
+      "type": "images-with-text-overlay",
+      "settings": {
+        "transparent_header": false,
+        "image_height": "400px",
+        "content_width": "small",
+        "content_position": "md:items-center md:justify-start",
+        "text_alignment": "left",
+        "image_1": "shopify://shop_images/1-Mar-16-2024-05-49-34-4694-PM.webp",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 0,
         "padding_top": 0,
         "padding_bottom": 0,
         "divider": false,
@@ -305,6 +335,7 @@
     }
   },
   "order": [
+    "image_with_text_overlay_xTUX4X",
     "images_with_text_overlay_FPfzUC",
     "multicolumn_4N4CmN",
     "collection-list"
