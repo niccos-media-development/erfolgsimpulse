@@ -1,0 +1,146 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "settings": {
+        "heading_size": "title-xl tracking-heading",
+        "heading_alignment": "text-left",
+        "heading_tag": "h1",
+        "text_size": "text-base",
+        "padding_top": 72,
+        "padding_bottom": 120,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "featured_product_QyNxDM": {
+      "type": "featured-product",
+      "blocks": {
+        "title_qrtyBX": {
+          "type": "title",
+          "settings": {
+            "title_size": "product-title-md",
+            "title_size_mobile": "product-title-md",
+            "show_price": true,
+            "show_rating": true
+          }
+        },
+        "description_gHX7ge": {
+          "type": "description",
+          "settings": {
+            "text_size": "text-base"
+          }
+        },
+        "variant_picker_ar7fcd": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "color_swatch_type": "color",
+            "size_chart": ""
+          }
+        },
+        "buy_buttons_KEMCER": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "spinning_text_UycMjJ": {
+          "type": "spinning_text",
+          "settings": {
+            "text": "Featured product"
+          }
+        },
+        "collapsible_tab_hiA6nT": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Basic-Produkt enthält:",
+            "content": "<ul><li>Prozessbeschreibung „Unsere Urlaubsregelung“</li><li>Vorlage „Urlaubsübergabe-Gespräch“</li><li>Vorlage „Urlaubsrückkehr-Gespräch“</li><li>Vorlage „Urlaubsantrag für Profis“</li><li>Vorlage „Urlaubsantrag für Azubis\" </li></ul>",
+            "page": "",
+            "liquid": ""
+          }
+        },
+        "collapsible_tab_yyjWzj": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "alert",
+            "heading": "100% verständlich & nutzenorientiert:",
+            "content": "<p>Alle Inhalte sind klar und leicht verständlich formuliert und bieten dir echten Mehrwert. Die Hilfsmittel sind praxiserprobt und wurden mit den Mitarbeitern für den praktischen Einsatz entwickelt – für sofortige Ergebnisse, die zählen.</p>",
+            "page": "",
+            "liquid": ""
+          }
+        },
+        "collapsible_tab_zhcTyY": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Return-on-Investment:",
+            "content": "<p>Unsere Prozessbeschreibungen basieren auf über 20 Jahren Erfahrung und wurden im eigenen Unternehmen entwickelt, in zahlreichen Beratungsprojekten erfolgreich eingesetzt und stetig optimiert. Deine Investition zahlt sich sofort aus – der ROI tritt unmittelbar ein.</p>",
+            "page": "",
+            "liquid": ""
+          }
+        },
+        "collapsible_tab_arRpYT": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Unsere Geld-zurück-Garantie:",
+            "content": "<p>Falls du nach dem Kauf nicht vollständig zufrieden bist, kannst du das Produkt ganz einfach innerhalb von 30 Tagen zurückgeben. Du erhältst den vollen Kaufpreis zurück – unkompliziert und ohne Nachfragen.</p>",
+            "page": "",
+            "liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_qrtyBX",
+        "description_gHX7ge",
+        "variant_picker_ar7fcd",
+        "buy_buttons_KEMCER",
+        "spinning_text_UycMjJ",
+        "collapsible_tab_hiA6nT",
+        "collapsible_tab_yyjWzj",
+        "collapsible_tab_zhcTyY",
+        "collapsible_tab_arRpYT"
+      ],
+      "settings": {
+        "product": "",
+        "enable_sticky_info": true,
+        "media_size": 66,
+        "gallery_layout": "thumbnail",
+        "thumbnail_position": "beside",
+        "image_ratio": "adapt_first",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "mobile_layout": "partial",
+        "image_ratio_mobile": "adapt_first",
+        "mobile_thumbnail": false,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "featured_product_QyNxDM"
+  ]
+}
